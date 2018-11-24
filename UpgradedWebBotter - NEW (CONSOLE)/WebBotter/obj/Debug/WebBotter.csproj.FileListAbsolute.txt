@@ -1,0 +1,32 @@
+C:/Users/Jryder/Dropbox/My C# Projects/WebBotter/WebBotter/bin/Debug/WebBotter.exe.config
+C:/Users/Jryder/Dropbox/My C# Projects/WebBotter/WebBotter/bin/Debug/WebBotter.exe
+C:/Users/Jryder/Dropbox/My C# Projects/WebBotter/WebBotter/bin/Debug/WebBotter.pdb
+C:/Users/Jryder/Dropbox/My C# Projects/WebBotter/WebBotter/obj/Debug/WebBotter.csprojResolveAssemblyReference.cache
+C:/Users/Jryder/Dropbox/My C# Projects/WebBotter/WebBotter/obj/Debug/WebBotter.exe
+C:/Users/Jryder/Dropbox/My C# Projects/WebBotter/WebBotter/obj/Debug/WebBotter.pdb
+C:/Users/Jack/Dropbox/My C# Projects/WebBotter/WebBotter/bin/Debug/WebBotter.exe.config
+C:/Users/Jack/Dropbox/My C# Projects/WebBotter/WebBotter/obj/Debug/WebBotter.exe
+C:/Users/Jack/Dropbox/My C# Projects/WebBotter/WebBotter/obj/Debug/WebBotter.pdb
+C:/Users/Jack/Dropbox/My C# Projects/WebBotter/WebBotter/obj/Debug/WebBotter.csprojResolveAssemblyReference.cache
+C:/Users/Jack/Dropbox/My C# Projects/WebBotter/WebBotter/bin/Debug/WebBotter.exe
+C:/Users/Jack/Dropbox/My C# Projects/WebBotter/WebBotter/bin/Debug/WebBotter.pdb
+C:/Users/Jack/Dropbox/My C# Projects/UpgradedWebBotter - NEW (CONSOLE)/WebBotter/bin/Debug/WebBotter.exe.config
+C:/Users/Jack/Dropbox/My C# Projects/UpgradedWebBotter - NEW (CONSOLE)/WebBotter/obj/Debug/WebBotter.exe
+C:/Users/Jack/Dropbox/My C# Projects/UpgradedWebBotter - NEW (CONSOLE)/WebBotter/obj/Debug/WebBotter.pdb
+C:/Users/Jack/Dropbox/My C# Projects/UpgradedWebBotter - NEW (CONSOLE)/WebBotter/obj/Debug/WebBotter.csprojResolveAssemblyReference.cache
+C:/Users/Jack/Dropbox/My C# Projects/UpgradedWebBotter - NEW (CONSOLE)/WebBotter/bin/Debug/WebBotter.exe
+C:/Users/Jack/Dropbox/My C# Projects/UpgradedWebBotter - NEW (CONSOLE)/WebBotter/bin/Debug/WebBotter.pdb
+C:/Users/Jryder/Dropbox/My C# Projects/UpgradedWebBotter - NEW (CONSOLE)/WebBotter/bin/Debug/WebBotter.exe.config
+C:/Users/Jryder/Dropbox/My C# Projects/UpgradedWebBotter - NEW (CONSOLE)/WebBotter/obj/Debug/WebBotter.exe
+C:/Users/Jryder/Dropbox/My C# Projects/UpgradedWebBotter - NEW (CONSOLE)/WebBotter/obj/Debug/WebBotter.pdb
+C:/Users/Jryder/Dropbox/My C# Projects/UpgradedWebBotter - NEW (CONSOLE)/WebBotter/bin/Debug/WebBotter.exe
+C:/Users/Jryder/Dropbox/My C# Projects/UpgradedWebBotter - NEW (CONSOLE)/WebBotter/bin/Debug/WebBotter.pdb
+C:/Users/Jryder/Dropbox/My C# Projects/UpgradedWebBotter - NEW (CONSOLE)/WebBotter/obj/Debug/WebBotter.csprojResolveAssemblyReference.cache
+E:/Dropbox/My C# Projects/UpgradedWebBotter - NEW (CONSOLE)/WebBotter/bin/Debug/WebBotter.exe.config
+E:/Dropbox/My C# Projects/UpgradedWebBotter - NEW (CONSOLE)/WebBotter/obj/Debug/WebBotter.exe
+E:/Dropbox/My C# Projects/UpgradedWebBotter - NEW (CONSOLE)/WebBotter/obj/Debug/WebBotter.pdb
+E:/Dropbox/My C# Projects/UpgradedWebBotter - NEW (CONSOLE)/WebBotter/bin/Debug/WebBotter.exe
+E:/Dropbox/My C# Projects/UpgradedWebBotter - NEW (CONSOLE)/WebBotter/bin/Debug/WebBotter.pdb
+E:/Dropbox/My C# Projects/UpgradedWebBotter - NEW (CONSOLE)/WebBotter/obj/Debug/WebBotter.csprojResolveAssemblyReference.cache
+/home/jaxi/Desktop/WebBotter-2.0-master/UpgradedWebBotter - NEW (CONSOLE)/WebBotter/obj/Debug/WebBotter.exe
+/home/jaxi/Desktop/WebBotter-2.0-master/UpgradedWebBotter - NEW (CONSOLE)/WebBotter/obj/Debug/WebBotter.pdb

@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/home/jaxi/Desktop/WebBotter-2.0-master/UpgradedWebBotter - NEW (CONSOLE)/WebBotter/WebBotter.csproj",
+  "TargetFramework": "v4.5",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
